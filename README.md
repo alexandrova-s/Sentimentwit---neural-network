@@ -1,4 +1,4 @@
-##Sentimentwit - neural network##
+## Sentimentwit - neural network ##
 
 
 A neural network analyzing the sentiment of Twitter entries on a scale of 1 (most nudative) - 10 (most positive)
